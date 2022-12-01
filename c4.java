@@ -24,7 +24,7 @@ public class c4
 			}		
 
 		}
-		System.out.println("The largest palindrom made from 3 digit numbers are : " +c);
+		System.out.println("The largest palindrome made from 3 digit numbers is : " +c);
 	}
 	
 	static boolean checkPalin(int n)
